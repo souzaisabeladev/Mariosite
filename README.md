@@ -17,5 +17,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <br>
 <h3>• Mockup do projeto:</h3>
-<img src="" alt="mockup-mario&luigi">
+<img src="https://github.com/souzaisabeladev/Mariosite/blob/main/site%20do%20mario%20ft%20.jpg?raw=true" alt="mockup-mario&luigi">
+<img src="https://github.com/souzaisabeladev/Mariosite/blob/main/site%20do%20mario%20ft%20formulario%20.jpg?raw=true" alt="mockup-formulário">
+
 <br>
